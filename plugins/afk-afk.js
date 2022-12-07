@@ -9,10 +9,10 @@ let thumb = await(await fetch(wibu)).buffer()
 user.afk = + new Date
 user.afkReason = text
  conn.sendButtonDoc(m.chat, `${conn.getName(m.sender)} is now AFK${text ? ': ' + text : ''}`, wm, 'ᴊᴀɴɢᴀɴ ᴅɪɢᴀɴɢɢᴜ ʏᴀ ᴋᴀᴋ', 'Bilek', m,  { contextInfo: { externalAdReply: { showAdAttribution: true,
-        mediaUrl: "https://Instagram.com/Xiao_yan_21",
+        mediaUrl: "https://instagram.com/levisuaran?igshid=YmMyMTA2M2Y=",
         mediaType: "VIDEO",
-        description: "https://Instagram.com/Xiao_yan_21", 
-        title: 'Elaina-MultiDevice',
+        description: "https://instagram.com/levisuaran?igshid=YmMyMTA2M2Y=", 
+        title: 'VICTOR BOT',
         body: wm,
         thumbnail: thumb,
         sourceUrl: sig
