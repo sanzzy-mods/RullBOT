@@ -49,10 +49,10 @@ handler.all = async function (m) {
 					title: global.ucapan,
 					body: wm,
 					mediaUrl: sgc,
-					description: 'Rull-MultiDevice',
+					description: 'VICTOR BOT',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(pic)).buffer(),
-					sourceUrl: "https://github.com/RullDev",					
+					sourceUrl: "https://github.com/victorbot22",					
 				}
 			}
 		}
@@ -84,10 +84,10 @@ handler.all = async function (m) {
 			}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/khoirul36_",
+            mediaUrl: "https://instagram.com/levisuaran?igshid=YmMyMTA2M2Y=",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/khoirul36_", 
-            title: 'Rull-MultiDevice',
+            description: "https://instagram.com/levisuaran?igshid=YmMyMTA2M2Y=", 
+            title: 'VICTOR BOT',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sig
@@ -95,10 +95,10 @@ handler.all = async function (m) {
     } }
 global.fakefb = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Facebook.com/zuck",
+            mediaUrl: "https://www.facebook.com/erdiansyah.teddy.3",
             mediaType: "VIDEO",
-            description: "https://www.Facebook.com/zuck", 
-            title: 'Rull-MultiDevice',
+            description: "https://www.facebook.com/erdiansyah.teddy.3", 
+            title: 'VICTOR BOT',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sgc
@@ -166,7 +166,7 @@ global.fakefb = {
                                "jpegThumbnail": fs.readFileSync('./thumbnail.jpg') //Gambarnye
                            },
                            "title": wm, //Kasih namalu 
-                           "description": "Rull-MultiDevice", 
+                           "description": "VICTOR BOT", 
                            "currencyCode": "USD",
                            "priceAmount1000": "20000000",
                            "retailerId": "Ghost",
@@ -199,7 +199,7 @@ global.fakefb = {
                "groupInviteMessage": {
                    "groupJid": "6285736178354-1625305606@g.us",
                    "inviteCode": "null",
-                   "groupName": "Kawan Rull", 
+                   "groupName": "Kawan Levi", 
                    "caption": wm, 
                    'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')
                }
