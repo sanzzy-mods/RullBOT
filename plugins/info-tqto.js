@@ -53,9 +53,11 @@ https://github.com/Rlxfly
 https://github.com/Aiinne
 *❉ Papah-Chan:*
 https://github.com/FahriAdison
-*▸ - - - —「 Penulis Ulang 」— - - - ◂*
 *❉ KhrlMstfa:*
 https://github.com/RullDev
+*▸ - - - —「 Penulis Ulang 」— - - - ◂*
+*❉ levigyz:*
+https://github.com/victorbot22
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
 *❉ Kannachan:*
 *❉ The.sadboy.01:*
@@ -66,10 +68,10 @@ https://github.com/RullDev
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/khoirul36_",
+    mediaUrl: "https://instagram.com/levisuaran?igshid=YmMyMTA2M2Y=",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/khoirul36_", 
-    title: 'Rull-MultiDevice',
+    description: "https://instagram.com/levisuaran?igshid=YmMyMTA2M2Y=", 
+    title: 'VICTOR BOT',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
