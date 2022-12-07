@@ -345,12 +345,12 @@ let tek = `✧────···[ 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 ]···�
 │⬡ *${Object.keys(global.db.data.users).length}* Pengguna Bot
 │⬡ *${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}* Chat Terbanned
 │⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
-│⬡ *Versi Bot:* ~MultiDevice V2~
-│⬡ *Run Bot:* Replit
+│⬡ *Versi Bot:* ~MultiDevice V6~
+│⬡ *Run Bot:* vercel 24 jam
 ┬
 ├━━━━━━━━━━━━━━━━┈─⋆
 │ ▸ *ᴀᴜᴛʜᴏʀ :* ʙᴏᴄʜɪʟɢᴀᴍɪɴɢ
-┴ ▸ *ᴏᴡɴᴇʀ :* ᴋʜʀʟᴍꜱᴛꜰᴀ
+┴ ▸ *ᴏᴡɴᴇʀ :* ʟᴇᴠɪ ɢʏᴢ
 ✧
 ┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
 │ ʙᴇʀɪ ᴊᴇᴅᴀ ʏᴀʜ ᴋᴀᴋ ^ω^
