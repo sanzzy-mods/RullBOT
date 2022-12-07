@@ -42,13 +42,13 @@ let tqto = `*Rules Bot*:
 Tahulah berterimakasih sebab anda tidak perlu membayar untuk menggunakan bot ini, gunakan secara bijak, jangan berlebihan.
 
 Be a smart user and good luck!
-*©Kebijakan By RullBot*
+*©Kebijakan By VICTOR BOT*
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Saya Paham','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/khoirul36_",
+    mediaUrl: "https://instagram.com/levisuaran?igshid=YmMyMTA2M2Y=",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/khoirul36_", 
-    title: 'RullBOT',
+    description: "https://instagram.com/levisuaran?igshid=YmMyMTA2M2Y=", 
+    title: 'VICTOR BOT',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
