@@ -49,7 +49,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/levisuaran?igshid=YmMyMTA2M2Y=' //Link Instagrammu
 global.sgh = 'https://github.com/victorbot22' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/LwYaRgzmbkTJ8dPuWej4mG'
+global.sgc = 'https://chat.whatsapp.com/EYv9NAv9Om45OyDoGpnyjz'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
@@ -60,15 +60,15 @@ global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6282131369002' //Nomor Bot
-global.nomorown = '6282245768235' //Nomor Owner
+global.nomorown = '6285172446692' //Nomor Owner
 global.namebot = 'VICTOR BOT' //Nama Bot
-global.nameown = 'Levi Gyz' // Nama Owner
+global.nameown = 'Levi Wangyy' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285172446692'], 
-  ['6282245768235', '❦ LEVIGYZ? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6282131369002'], 
+  ['6285172446692', '❦ LEVIGYZ? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
